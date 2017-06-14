@@ -44,7 +44,7 @@
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Memory\Commit Limit&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\4\30&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -87,7 +87,7 @@
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Memory\Committed Bytes&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\4\1762&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -130,7 +130,7 @@
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Memory\Free System Page Table Entries&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\4\678&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -177,7 +177,7 @@ https://blogs.technet.microsoft.com/clint_huffman/2008/04/07/free-system-page-ta
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Memory\Page Faults/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\4\28&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -220,7 +220,7 @@ https://blogs.technet.microsoft.com/clint_huffman/2008/04/07/free-system-page-ta
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Memory\Page Reads/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\4\23616&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -263,7 +263,7 @@ https://blogs.technet.microsoft.com/clint_huffman/2008/04/07/free-system-page-ta
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Memory\Pages/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\4\1514&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -307,7 +307,7 @@ If the value is greater than 1,000, as a result of excessive paging, there may b
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Memory\Pages Input/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\4\822&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -350,7 +350,7 @@ If the value is greater than 1,000, as a result of excessive paging, there may b
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Memory\Pages Output/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\4\48&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -393,7 +393,7 @@ If the value is greater than 1,000, as a result of excessive paging, there may b
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Memory\Page Writes/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\4\50&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -436,7 +436,7 @@ If the value is greater than 1,000, as a result of excessive paging, there may b
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Network Interface(*)\Bytes Received/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\510(*)\264&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -479,7 +479,7 @@ If the value is greater than 1,000, as a result of excessive paging, there may b
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Network Interface(*)\Bytes Sent/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\510(*)\506&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -522,7 +522,7 @@ If the value is greater than 1,000, as a result of excessive paging, there may b
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Network Interface(*)\Bytes Total/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\510(*)\6098&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -567,7 +567,7 @@ Use this counter to determine how the network adapter is performing. The Bytes T
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Network Interface(*)\Output Queue Length&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\510(*)\544&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -610,7 +610,7 @@ Use this counter to determine how the network adapter is performing. The Bytes T
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Network Interface(*)\Packets Outbound Discarded&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\510(*)\540&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -653,7 +653,7 @@ Use this counter to determine how the network adapter is performing. The Bytes T
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Network Interface(*)\Packets Outbound Errors&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\510(*)\542&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -696,7 +696,7 @@ Use this counter to determine how the network adapter is performing. The Bytes T
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Network Interface(*)\Packets Received Discarded&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\510(*)\528&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -739,7 +739,7 @@ Use this counter to determine how the network adapter is performing. The Bytes T
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Network Interface(*)\Packets Received Errors&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\510(*)\530&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -782,7 +782,7 @@ Use this counter to determine how the network adapter is performing. The Bytes T
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Paging File(_Total)\% Usage&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\700(_Total)\702&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -825,7 +825,7 @@ Use this counter to determine how the network adapter is performing. The Bytes T
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\PhysicalDisk(_Total)\% Disk Read Time&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\234(_Total)\202&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -871,7 +871,7 @@ The same logic applies to the % Disk Read Time and the % Disk Write Time. Their 
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\PhysicalDisk(_Total)\% Disk Time&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\234(_Total)\200&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -917,7 +917,7 @@ The same logic applies to the % Disk Read Time and the % Disk Write Time. Their 
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\PhysicalDisk(_Total)\% Disk Write Time&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\234(_Total)\204&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -963,7 +963,7 @@ The same logic applies to the % Disk Read Time and the % Disk Write Time. Their 
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\PhysicalDisk(_Total)\% Idle Time&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\234(_Total)\1482&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1006,7 +1006,7 @@ The same logic applies to the % Disk Read Time and the % Disk Write Time. Their 
                     <snmp_community/>
                     <multiplier>1</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\PhysicalDisk(_Total)\Disk Read Bytes/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\234(_Total)\220&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1050,7 +1050,7 @@ https://technet.microsoft.com/en-us/library/cc958290.aspx</description>
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\PhysicalDisk(_Total)\Disk Reads/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\234(_Total)\214&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1094,7 +1094,7 @@ Disk Reads/sec and Disk Writes/sec are calculated in the same way, but break dow
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Process(_Total)\IO Data Operations/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\230(_Total)\1416&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1140,7 +1140,7 @@ Disk Reads/sec and Disk Writes/sec are calculated in the same way, but break dow
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Process(_Total)\IO Other Operations/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\230(_Total)\1418&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1186,7 +1186,7 @@ Disk Reads/sec and Disk Writes/sec are calculated in the same way, but break dow
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Process(_Total)\IO Read Operations/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\230(_Total)\1412&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1232,7 +1232,7 @@ Disk Reads/sec and Disk Writes/sec are calculated in the same way, but break dow
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Process(_Total)\IO Write Operations/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\230(_Total)\1414&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1278,7 +1278,7 @@ Disk Reads/sec and Disk Writes/sec are calculated in the same way, but break dow
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Processor(_Total)\% DPC Time&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\238(_Total)\696&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1321,7 +1321,7 @@ Disk Reads/sec and Disk Writes/sec are calculated in the same way, but break dow
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Processor(_Total)\% Idle Time&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\238(_Total)\1482&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1364,7 +1364,7 @@ Disk Reads/sec and Disk Writes/sec are calculated in the same way, but break dow
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Processor(_Total)\% Interrupt Time&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\238(_Total)\698&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1407,7 +1407,7 @@ Disk Reads/sec and Disk Writes/sec are calculated in the same way, but break dow
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Processor(_Total)\% Privileged Time&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\238(_Total)\1854&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1450,7 +1450,7 @@ Disk Reads/sec and Disk Writes/sec are calculated in the same way, but break dow
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Processor(_Total)\% Processor Time&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\238(_Total)\29720&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1493,7 +1493,7 @@ Disk Reads/sec and Disk Writes/sec are calculated in the same way, but break dow
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Processor(_Total)\% User Time&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\238(_Total)\142&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1536,7 +1536,7 @@ Disk Reads/sec and Disk Writes/sec are calculated in the same way, but break dow
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Processor(_Total)\Interrupts/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\238(_Total)\3110&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1581,7 +1581,7 @@ https://technet.microsoft.com/en-us/library/cc940374.aspx</description>
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Server Work Queues(*)\Queue Length&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\1300(*)\1302&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1627,7 +1627,7 @@ https://technet.microsoft.com/en-us/library/cc940374.aspx</description>
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\System\% Registry Quota In Use&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\2\1350&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1672,7 +1672,7 @@ https://technet.microsoft.com/en-us/library/cc963194.aspx</description>
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\System\Context Switches/sec&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\2\146&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -1718,7 +1718,7 @@ https://technet.microsoft.com/en-us/library/cc963194.aspx</description>
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\System\Processor Queue Length&quot;,{$PERF_INTERVAL}]</key>
+                    <key>perf_counter[&quot;\2\44&quot;,{$PERF_INTERVAL}]</key>
                     <delay>30</delay>
                     <history>14</history>
                     <trends>365</trends>
@@ -2155,9 +2155,9 @@ https://technet.microsoft.com/en-us/library/cc963194.aspx</description>
     </templates>
     <triggers>
         <trigger>
-            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\PhysicalDisk(_Total)\% Idle Time&quot;,{$PERF_INTERVAL}].max(5m)}&lt;30)&#13;
+            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\234(_Total)\1482&quot;,{$PERF_INTERVAL}].max(5m)}&lt;30)&#13;
 or&#13;
-({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\PhysicalDisk(_Total)\% Idle Time&quot;,{$PERF_INTERVAL}].min(10m)}&lt;60)</expression>
+({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\234(_Total)\1482&quot;,{$PERF_INTERVAL}].min(10m)}&lt;60)</expression>
             <name>[{HOST.NAME}] Busy Disk</name>
             <url>http://blogs.technet.com/b/askcore/archive/2012/03/16/windows-performance-monitor-disk-counters-explained.aspx</url>
             <status>0</status>
@@ -2168,9 +2168,9 @@ This is how it’s calculated, the system timestamps an event when the disk goes
             <dependencies/>
         </trigger>
         <trigger>
-            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\Processor(_Total)\% Processor Time&quot;,{$PERF_INTERVAL}].min(5m)}&gt;80)&#13;
+            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\238(_Total)\29720&quot;,{$PERF_INTERVAL}].min(5m)}&gt;80)&#13;
 or&#13;
-({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\Processor(_Total)\% Processor Time&quot;,{$PERF_INTERVAL}].max(10m)}&gt;70)</expression>
+({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\238(_Total)\29720&quot;,{$PERF_INTERVAL}].max(10m)}&gt;70)</expression>
             <name>[{HOST.NAME}] CPU running over 80%</name>
             <url/>
             <status>0</status>
@@ -2180,9 +2180,9 @@ or&#13;
             <dependencies/>
         </trigger>
         <trigger>
-            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\Process(_Total)\IO Data Operations/sec&quot;,{$PERF_INTERVAL}].min(5m)}&gt;1500)&#13;
+            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\230(_Total)\1416&quot;,{$PERF_INTERVAL}].min(5m)}&gt;1500)&#13;
 or&#13;
-({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\Process(_Total)\IO Data Operations/sec&quot;,{$PERF_INTERVAL}].max(10m)}&gt;1000)</expression>
+({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\230(_Total)\1416&quot;,{$PERF_INTERVAL}].max(10m)}&gt;1000)</expression>
             <name>[{HOST.NAME}] High IO Data Operations/sec</name>
             <url>http://blogs.technet.com/b/askcore/archive/2012/03/16/windows-performance-monitor-disk-counters-explained.aspx</url>
             <status>0</status>
@@ -2192,9 +2192,9 @@ or&#13;
             <dependencies/>
         </trigger>
         <trigger>
-            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\Process(_Total)\IO Other Operations/sec&quot;,{$PERF_INTERVAL}].min(5m)}&gt;1500)&#13;
+            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\230(_Total)\1418&quot;,{$PERF_INTERVAL}].min(5m)}&gt;1500)&#13;
 or&#13;
-({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\Process(_Total)\IO Other Operations/sec&quot;,{$PERF_INTERVAL}].max(10m)}&gt;1000)</expression>
+({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\230(_Total)\1418&quot;,{$PERF_INTERVAL}].max(10m)}&gt;1000)</expression>
             <name>[{HOST.NAME}] High IO Other Operations/sec</name>
             <url>http://blogs.technet.com/b/askcore/archive/2012/03/16/windows-performance-monitor-disk-counters-explained.aspx</url>
             <status>0</status>
@@ -2204,9 +2204,9 @@ or&#13;
             <dependencies/>
         </trigger>
         <trigger>
-            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\Process(_Total)\IO Read Operations/sec&quot;,{$PERF_INTERVAL}].min(5m)}&gt;1500)&#13;
+            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\230(_Total)\1412&quot;,{$PERF_INTERVAL}].min(5m)}&gt;1500)&#13;
 or&#13;
-({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\Process(_Total)\IO Read Operations/sec&quot;,{$PERF_INTERVAL}].max(10m)}&gt;1000)</expression>
+({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\230(_Total)\1412&quot;,{$PERF_INTERVAL}].max(10m)}&gt;1000)</expression>
             <name>[{HOST.NAME}] High IO Read Operations/sec</name>
             <url>http://blogs.technet.com/b/askcore/archive/2012/03/16/windows-performance-monitor-disk-counters-explained.aspx</url>
             <status>0</status>
@@ -2216,9 +2216,9 @@ or&#13;
             <dependencies/>
         </trigger>
         <trigger>
-            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\Process(_Total)\IO Write Operations/sec&quot;,{$PERF_INTERVAL}].min(5m)}&gt;1500)&#13;
+            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\230(_Total)\1414&quot;,{$PERF_INTERVAL}].min(5m)}&gt;1500)&#13;
 or&#13;
-({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\Process(_Total)\IO Write Operations/sec&quot;,{$PERF_INTERVAL}].max(10m)}&gt;1000)</expression>
+({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\230(_Total)\1414&quot;,{$PERF_INTERVAL}].max(10m)}&gt;1000)</expression>
             <name>[{HOST.NAME}] High IO Write Operations/sec</name>
             <url>http://blogs.technet.com/b/askcore/archive/2012/03/16/windows-performance-monitor-disk-counters-explained.aspx</url>
             <status>0</status>
@@ -2228,9 +2228,9 @@ or&#13;
             <dependencies/>
         </trigger>
         <trigger>
-            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\System\Context Switches/sec&quot;,{$PERF_INTERVAL}].min(5m)}&gt;4000)&#13;
+            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\2\146&quot;,{$PERF_INTERVAL}].min(5m)}&gt;4000)&#13;
 or&#13;
-({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\System\Context Switches/sec&quot;,{$PERF_INTERVAL}].max(10m)}&gt;3000)</expression>
+({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\2\146&quot;,{$PERF_INTERVAL}].max(10m)}&gt;3000)</expression>
             <name>[{HOST.NAME}] High rate of Context Switches/sec</name>
             <url>https://technet.microsoft.com/en-us/library/cc938606.aspx</url>
             <status>0</status>
@@ -2240,19 +2240,19 @@ or&#13;
             <dependencies/>
         </trigger>
         <trigger>
-            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\Memory\Pages/sec&quot;,{$PERF_INTERVAL}].min(5m)}&gt;150)&#13;
+            <expression>({TRIGGER.VALUE}=0 and {Template Windows Server:perf_counter[&quot;\4\1514&quot;,{$PERF_INTERVAL}].min(5m)}&gt;150)&#13;
 or&#13;
-({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\Memory\Pages/sec&quot;,{$PERF_INTERVAL}].max(10m)}&gt;100)</expression>
+({TRIGGER.VALUE}=1 and {Template Windows Server:perf_counter[&quot;\4\1514&quot;,{$PERF_INTERVAL}].max(10m)}&gt;100)</expression>
             <name>[{HOST.NAME}] High rate of Memory Pages/sec</name>
             <url>https://technet.microsoft.com/en-us/library/cc958290.aspx</url>
             <status>0</status>
             <priority>2</priority>
-            <description>Acceptable rates for Memory\Pages/sec range from 40 per second on older portable computers to 150 per second for the newest disk systems.</description>
+            <description>Acceptable rates for Memory\1514 range from 40 per second on older portable computers to 150 per second for the newest disk systems.</description>
             <type>0</type>
             <dependencies/>
         </trigger>
         <trigger>
-            <expression>{Template Windows Server:perf_counter[&quot;\Memory\Free System Page Table Entries&quot;,{$PERF_INTERVAL}].last()}&lt;5000</expression>
+            <expression>{Template Windows Server:perf_counter[&quot;\4\678&quot;,{$PERF_INTERVAL}].last()}&lt;5000</expression>
             <name>[{HOST.NAME}] Lack of Free System Page Table Entries</name>
             <url>https://blogs.technet.microsoft.com/yongrhee/2009/08/10/how-to-troubleshoot-low-system-page-table-entries-system-ptes/</url>
             <status>0</status>
@@ -2262,7 +2262,7 @@ or&#13;
             <dependencies/>
         </trigger>
         <trigger>
-            <expression>{Template Windows Server:perf_counter[&quot;\Server Work Queues(*)\Queue Length&quot;,{$PERF_INTERVAL}].avg(5m)}&gt;4</expression>
+            <expression>{Template Windows Server:perf_counter[&quot;\1300(*)\1302&quot;,{$PERF_INTERVAL}].avg(5m)}&gt;4</expression>
             <name>[{HOST.NAME}] Large Server Work Queues</name>
             <url>https://msdn.microsoft.com/en-us/library/ms804619.aspx</url>
             <status>0</status>
@@ -2272,7 +2272,7 @@ or&#13;
             <dependencies/>
         </trigger>
         <trigger>
-            <expression>{Template Windows Server:perf_counter[&quot;\Network Interface(*)\Output Queue Length&quot;,{$PERF_INTERVAL}].last()}&gt;0</expression>
+            <expression>{Template Windows Server:perf_counter[&quot;\510(*)\544&quot;,{$PERF_INTERVAL}].last()}&gt;0</expression>
             <name>[{HOST.NAME}] Network Output Queue Length</name>
             <url>https://blogs.technet.microsoft.com/yongrhee/2010/07/06/network-interface-output-queue-length-values-extremely-high/</url>
             <status>0</status>
@@ -2282,7 +2282,7 @@ or&#13;
             <dependencies/>
         </trigger>
         <trigger>
-            <expression>{Template Windows Server:perf_counter[&quot;\Processor(_Total)\% Interrupt Time&quot;,{$PERF_INTERVAL}].avg(5m)}&gt;30</expression>
+            <expression>{Template Windows Server:perf_counter[&quot;\238(_Total)\698&quot;,{$PERF_INTERVAL}].avg(5m)}&gt;30</expression>
             <name>[{HOST.NAME}] Processor spending more than 30% with Interrupt Time</name>
             <url>https://blogs.technet.microsoft.com/askperf/2008/01/18/do-you-know-where-your-processor-spends-its-time/</url>
             <status>0</status>
@@ -2292,7 +2292,7 @@ or&#13;
             <dependencies/>
         </trigger>
         <trigger>
-            <expression>{Template Windows Server:perf_counter[&quot;\System\% Registry Quota In Use&quot;,{$PERF_INTERVAL}].last()}&gt;80</expression>
+            <expression>{Template Windows Server:perf_counter[&quot;\2\1350&quot;,{$PERF_INTERVAL}].last()}&gt;80</expression>
             <name>[{HOST.NAME}] Registry Quota Usage hit 80%</name>
             <url>https://blogs.technet.microsoft.com/yongrhee/2009/07/24/how-to-troubleshoot-windows-low-on-registry-space-the-system-has-reached-the-maximum-size-allowed-for-the-system-part-of-the-registry-additional-storage-requests-will-be-ignored/</url>
             <status>0</status>
@@ -2350,7 +2350,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\System\Context Switches/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\2\146&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2362,7 +2362,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Processor(_Total)\Interrupts/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\238(_Total)\3110&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2374,7 +2374,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\System\Processor Queue Length&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\2\44&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2386,7 +2386,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Processor(_Total)\% Processor Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\238(_Total)\29720&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
             </graph_items>
@@ -2418,7 +2418,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Processor(_Total)\% Processor Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\238(_Total)\29720&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2430,7 +2430,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Processor(_Total)\% Idle Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\238(_Total)\1482&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2442,7 +2442,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Processor(_Total)\% DPC Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\238(_Total)\696&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2454,7 +2454,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Processor(_Total)\% Interrupt Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\238(_Total)\698&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2466,7 +2466,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Processor(_Total)\% Privileged Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\238(_Total)\1854&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2478,7 +2478,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Processor(_Total)\% User Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\238(_Total)\142&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
             </graph_items>
@@ -2510,7 +2510,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Memory\Pages/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\4\1514&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2522,7 +2522,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Memory\Pages Input/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\4\822&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2534,7 +2534,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Memory\Page Reads/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\4\23616&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2546,7 +2546,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\PhysicalDisk(_Total)\Disk Read Bytes/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\234(_Total)\220&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2558,7 +2558,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\PhysicalDisk(_Total)\Disk Reads/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\234(_Total)\214&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
             </graph_items>
@@ -2590,7 +2590,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\PhysicalDisk(_Total)\% Idle Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\234(_Total)\1482&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2602,7 +2602,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\PhysicalDisk(_Total)\% Disk Read Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\234(_Total)\202&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2614,7 +2614,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\PhysicalDisk(_Total)\% Disk Write Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\234(_Total)\204&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2626,7 +2626,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\PhysicalDisk(_Total)\% Disk Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\234(_Total)\200&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
             </graph_items>
@@ -2658,7 +2658,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Process(_Total)\IO Data Operations/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\230(_Total)\1416&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2670,7 +2670,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Process(_Total)\IO Other Operations/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\230(_Total)\1418&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2682,7 +2682,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Process(_Total)\IO Read Operations/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\230(_Total)\1412&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2694,7 +2694,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Process(_Total)\IO Write Operations/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\230(_Total)\1414&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
             </graph_items>
@@ -2726,7 +2726,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Memory\Commit Limit&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\4\30&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2738,7 +2738,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Memory\Committed Bytes&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\4\1762&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2750,7 +2750,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Paging File(_Total)\% Usage&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\700(_Total)\702&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
             </graph_items>
@@ -2782,7 +2782,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Memory\Pages/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\4\1514&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2794,7 +2794,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Memory\Page Reads/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\4\23616&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2806,7 +2806,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Memory\Pages Input/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\4\822&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2818,7 +2818,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Memory\Pages Output/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\4\48&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2830,7 +2830,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Memory\Page Writes/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\4\50&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2842,7 +2842,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Memory\Page Faults/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\4\28&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
             </graph_items>
@@ -2874,7 +2874,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Network Interface(*)\Packets Outbound Discarded&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\510(*)\540&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2886,7 +2886,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Network Interface(*)\Packets Outbound Errors&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\510(*)\542&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2898,7 +2898,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Network Interface(*)\Packets Received Discarded&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\510(*)\528&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2910,7 +2910,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Network Interface(*)\Packets Received Errors&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\510(*)\530&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
             </graph_items>
@@ -2942,7 +2942,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Network Interface(*)\Output Queue Length&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\510(*)\544&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
             </graph_items>
@@ -2974,7 +2974,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Network Interface(*)\Bytes Received/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\510(*)\264&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2986,7 +2986,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Network Interface(*)\Bytes Sent/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\510(*)\506&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -2998,7 +2998,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Network Interface(*)\Bytes Total/sec&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\510(*)\6098&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
             </graph_items>
@@ -3030,7 +3030,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\System\Processor Queue Length&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\2\44&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -3042,7 +3042,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Server Work Queues(*)\Queue Length&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\1300(*)\1302&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
             </graph_items>
@@ -3074,7 +3074,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Processor(_Total)\% DPC Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\238(_Total)\696&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -3086,7 +3086,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Processor(_Total)\% Interrupt Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\238(_Total)\698&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -3098,7 +3098,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Processor(_Total)\% Privileged Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\238(_Total)\1854&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
                 <graph_item>
@@ -3110,7 +3110,7 @@ or&#13;
                     <type>0</type>
                     <item>
                         <host>Template Windows Server</host>
-                        <key>perf_counter[&quot;\Processor(_Total)\% User Time&quot;,{$PERF_INTERVAL}]</key>
+                        <key>perf_counter[&quot;\238(_Total)\142&quot;,{$PERF_INTERVAL}]</key>
                     </item>
                 </graph_item>
             </graph_items>
